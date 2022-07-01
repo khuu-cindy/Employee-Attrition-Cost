@@ -1,9 +1,9 @@
 # Employee-Attrition-Cost
 
 
-I've developed an understanding of the financial impact of employee attrition by evaluated attrition by department and job role and estimate the cost attributed. 
+I've developed an understanding of the financial impact of employee attrition by evaluating attrition by department and job role while also estimating the attributed costs. 
 
-Attached is an analysise to get a business understanding of what is currently happening with this business and a final chart. 
+Attached is an analysis to get a business understanding of what is currently happening with this business and a final chart. 
 
 
 
